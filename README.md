@@ -40,7 +40,7 @@ The bundled `sample.mp3` comes from my own collection of test files:
 
 **[Audio sample files — mzeeshan.me](https://mzeeshan.me/tools/sample-files/category/audios)**
 
-Use a file with real embedded tags when testing metadata pipelines. The collection has MP3, M4A and FLAC variants with proper metadata embedded for exactly this kind of testing.
+Use a file with real embedded tags when testing metadata pipelines. The collection has [MP3](https://mzeeshan.me/tools/sample-files/extensions/mp3), [M4A](https://mzeeshan.me/tools/sample-files/extensions/m4a) and [FLAC](https://mzeeshan.me/tools/sample-files/extensions/flac) variants with proper metadata embedded for exactly this kind of testing.
 
 ## Requirements
 
