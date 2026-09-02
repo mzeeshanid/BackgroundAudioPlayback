@@ -42,6 +42,18 @@ The bundled `sample.mp3` comes from my own collection of test files:
 
 Use a file with real embedded tags when testing metadata pipelines. The collection has [MP3](https://mzeeshan.me/tools/sample-files/extensions/mp3), [M4A](https://mzeeshan.me/tools/sample-files/extensions/m4a) and [FLAC](https://mzeeshan.me/tools/sample-files/extensions/flac) variants with proper metadata embedded for exactly this kind of testing.
 
+## About the app icon
+ 
+The app icon in this project was generated with another tool of mine:
+ 
+**[App Icon Generator — mzeeshan.me](https://mzeeshan.me/tools/app-icon-generator)**
+ 
+It's a free, browser-based generator that goes beyond resizing providing drop-in replacement. You compose the icon itself from a background plus a foreground layer (an image, clip art from the React Icons library, or styled text), preview it live in real device frames, and download a project-ready ZIP with the correct `AppIcon.appiconset` structure for Xcode. Android adaptive icons are supported too if you're building cross-platform.
+ 
+Best for demo or an MVP, it's a two-minute fix for the default placeholder grid icon, which is exactly what I used it for here.
+
+<img width="1726" height="1016" alt="Screenshot 2026-09-02 at 12 22 13 PM" src="https://github.com/user-attachments/assets/4efc96eb-eede-4095-a926-e8caa10de1c1" />
+
 ## Requirements
 
 - Xcode 15+
