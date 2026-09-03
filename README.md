@@ -42,6 +42,8 @@ The bundled `sample.mp3` comes from my own collection of test files:
 
 Use a file with real embedded tags when testing metadata pipelines. The collection has [MP3](https://mzeeshan.me/tools/sample-files/extensions/mp3), [M4A](https://mzeeshan.me/tools/sample-files/extensions/m4a) and [FLAC](https://mzeeshan.me/tools/sample-files/extensions/flac) variants with proper metadata embedded for exactly this kind of testing.
 
+<img width="1724" height="626" alt="Screenshot 2026-09-02 at 12 33 48 AM" src="https://github.com/user-attachments/assets/13507e54-5909-4572-ad3d-99429a810303" />
+
 ## About the app icon
  
 The app icon in this project was generated with another tool of mine:
